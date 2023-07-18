@@ -1,0 +1,29 @@
+https://onecompiler.com/python/3zevxq5g3
+
+belajar python tanggal 18 juli 2023
+('---------------------------------------------------------------------------------------------------------------------')
+perkenalan = ("hai saya aurel")
+
+print('hai teman teman, nama saya aurel')
+print(perkenalan)
+
+#print('sandi adalah badut saya btw, hehehe ;)')
+print('semoga diterima di kampus politeknik')
+
+print("--------------------------------------------------------------------")
+biodata = ("biodata saya ;)")
+nama = ("Nama saya = Aurelya Adhean")
+alamat = ("rumah saya berada di = purworejo")
+riwayat_sekolah =("saya pernah bersekolah di = smpit assalam, sragen")
+kelulusan = ("saya dinyatan lulus dari smpit assalam")
+umur = ("saya sekarang berumur = 18")
+penutup = ("sekian perkenalan darisaya kurang lebihnya saya minta maaf <3 ke sandi hehehe ;)")
+print(biodata)
+print(nama)
+print(alamat)
+print(riwayat_sekolah)
+print(kelulusan)
+print(umur)
+print(penutup)
+print("--------------------------------------------------------------------")
+print('bisa dibalik ya kakk ;)')
